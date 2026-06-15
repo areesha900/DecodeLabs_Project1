@@ -62,18 +62,12 @@ USER INPUT  →  SANITIZATION  →  DICTIONARY LOOKUP  →  OUTPUT
 
 ## 🚀 How to Run
 
-### Option 1 — Google Colab (recommended)
+### Google Colab
 1. Open [Google Colab](https://colab.research.google.com)
 2. Create a new notebook
-3. Paste the contents of `decobot_project1.py` into a cell
+3. Paste the contents of `chatbot.ipynub` into a cell
 4. Press `Shift + Enter`
 5. Type in the input box that appears below the cell
-
-### Option 2 — Local Python
-```bash
-python decobot_project1.py
-```
-Requires Python 3.x — no additional libraries needed.
 
 ---
 
@@ -81,14 +75,13 @@ Requires Python 3.x — no additional libraries needed.
 
 ```
 ===================================================
-  DecoBot — Rule-Based AI Chatbot
-  DecodeLabs Internship | Project 1 | Batch 2026
+  DBot : Rule-Based AI Chatbot
 ===================================================
-Bot: Hello! I'm DecoBot 🤖
+Bot: Hello! I'm DBot 
 Bot: Type 'help' to see what I can do, or 'exit' to quit.
 ---------------------------------------------------
 You: hello
-Bot: Hey there! I'm DecoBot 🤖 How can I help you today?
+Bot: Hey there! I'm DBot. How can I help you today?
 
 You: what is ai
 Bot: AI (Artificial Intelligence) is the simulation of human intelligence by machines.
