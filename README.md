@@ -62,12 +62,10 @@ USER INPUT  →  SANITIZATION  →  DICTIONARY LOOKUP  →  OUTPUT
 
 ## 🚀 How to Run
 
-### Google Colab
 1. Open [Google Colab](https://colab.research.google.com)
-2. Create a new notebook
-3. Paste the contents of `chatbot.ipynub` into a cell
-4. Press `Shift + Enter`
-5. Type in the input box that appears below the cell
+2. Upload the contents of `chatbot.ipynub`
+3. Press `Shift + Enter`
+4. Type in the input box that appears below the cell
 
 ---
 
