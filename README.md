@@ -73,7 +73,7 @@ USER INPUT  →  SANITIZATION  →  DICTIONARY LOOKUP  →  OUTPUT
 
 ```
 ===================================================
-  DBot : Rule-Based AI Chatbot
+DBot : Rule-Based AI Chatbot
 ===================================================
 Bot: Hello! I'm DBot 
 Bot: Type 'help' to see what I can do, or 'exit' to quit.
