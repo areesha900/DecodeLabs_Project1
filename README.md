@@ -100,19 +100,8 @@ You: xyz random stuff
 Bot: I don't understand that yet. Type 'help' to see what I know!
 
 You: exit
-Bot: Goodbye! Keep building — see you in Project 2! 🚀
+Bot: Goodbye! See you! 🚀
 ===================================================
-```
-
----
-
-## 📁 File Structure
-
-```
-DecodeLabs_Project1/
-│
-├── decobot_project1.py   ← Main chatbot code
-└── README.md             ← This file
 ```
 
 ---
