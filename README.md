@@ -116,13 +116,3 @@ DecodeLabs_Project1/
 ```
 
 ---
-
-## 🔗 About DecodeLabs
-
-DecodeLabs is an AI training platform based in Greater Lucknow, India.
-- 🌐 [www.decodelabs.tech](https://www.decodelabs.tech)
-- 📧 decodelabs.tech@gmail.com
-
----
-
-*Built as part of the DecodeLabs AI Industrial Training Kit — Batch 2026*
