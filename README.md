@@ -24,8 +24,8 @@ USER INPUT  →  SANITIZATION  →  DICTIONARY LOOKUP  →  OUTPUT
 | Phase | What happens |
 |-------|-------------|
 | **Input** | Raw text from the user |
-| **Sanitization** | `.lower().strip()` — removes case & whitespace issues |
-| **Process** | Dictionary `.get()` lookup — O(1) constant time |
+| **Sanitization** | `.lower().strip()` - removes case & whitespace issues |
+| **Process** | Dictionary `.get()` lookup - O(1) constant time |
 | **Output** | Matched response or fallback message |
 
 ---
@@ -34,7 +34,7 @@ USER INPUT  →  SANITIZATION  →  DICTIONARY LOOKUP  →  OUTPUT
 
 | Concept | Implementation |
 |---------|---------------|
-| Continuous loop | `while True:` — the chatbot heartbeat |
+| Continuous loop | `while True:` - the chatbot heartbeat |
 | Input sanitization | `.lower().strip()` |
 | Knowledge base | Python dictionary (hash map) |
 | O(1) lookup | `dict.get(key, fallback)` |
@@ -45,8 +45,8 @@ USER INPUT  →  SANITIZATION  →  DICTIONARY LOOKUP  →  OUTPUT
 
 | Approach | Time Complexity | Scalability |
 |----------|----------------|-------------|
-| if-elif ladder | O(n) — slower as rules grow | Low — messy to maintain |
-| Dictionary `.get()` | O(1) — instant regardless of size | High — just add a new line |
+| if-elif ladder | O(n) - slower as rules grow | Low - messy to maintain |
+| Dictionary `.get()` | O(1) - instant regardless of size | High - just add a new line |
 
 ---
 
