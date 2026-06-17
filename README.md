@@ -63,7 +63,7 @@ USER INPUT  →  SANITIZATION  →  DICTIONARY LOOKUP  →  OUTPUT
 ## 🚀 How to Run
 
 1. Open [Google Colab](https://colab.research.google.com)
-2. Upload the contents of `chatbot.ipynub`
+2. Upload the contents of `chatbot.ipynb`
 3. Press `Shift + Enter`
 4. Type in the input box that appears below the cell
 
