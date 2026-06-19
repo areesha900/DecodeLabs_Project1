@@ -8,9 +8,9 @@ The goal is to build a rule-based AI chatbot from scratch using Python - no mach
 
 ## 🧠 What is a Rule-Based Chatbot?
 
-A rule-based chatbot is a **white box system** — every decision is traceable, every response is hard-coded, and there is zero hallucination risk. It works by mapping user inputs to predefined responses using an exact-match lookup.
+A rule-based chatbot is a **white box system** - every decision is traceable, every response is hard-coded, and there is zero hallucination risk. It works by mapping user inputs to predefined responses using an exact-match lookup.
 
-This is the same logic that powers **AI guardrails** in production systems like NVIDIA NeMo and Llama Guard — the deterministic control layer that sits on top of probabilistic LLMs.
+This is the same logic that powers **AI guardrails** in production systems like NVIDIA NeMo and Llama Guard - the deterministic control layer that sits on top of probabilistic LLMs.
 
 ---
 
